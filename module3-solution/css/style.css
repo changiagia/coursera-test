@@ -1,0 +1,105 @@
+body {
+	font-family: "Comic Sans MS", sans-serif;
+	box-sizing: border-box;
+}
+
+/**********  HEADER  ***********/
+#header-nav .container-fluid {
+	border: none;
+	margin: 0;
+	padding: 0;
+}
+
+#header-nav {
+	background-color: #989898;
+	border-radius: 0;
+	border-style: solid;
+	border-color: black;
+	border-width: 2px;
+	padding: 0;
+}
+
+.navbar-brand {
+	padding-top: 8px;
+	padding-bottom: 12px;
+	padding-left: 30px;
+}
+
+.navbar-brand h1 { /*Restaurant name*/
+	font-size: 1.5em;
+	font-weight: bold;
+	margin-top: 0;
+	margin-bottom: 0
+
+}
+
+button:active {
+	color: white;
+}
+
+#collapsable-nav {
+	margin: -1px;
+}
+
+#nav-list li{
+	background-color: white;
+	border: 1px solid black;
+}
+
+#nav-list a{
+	color: black;
+	margin-top: 10px;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 1px solid black;
+}
+
+.navbar-header button.navbar-toggle {
+	clear: both;
+	margin-top: -30px;
+}
+
+/**********  END HEADER  ***********/
+
+/**********  MAIN CONTENT  ***********/
+#menu-header {
+	font-size: 1.8em;
+}
+
+#main-content section {
+	margin: 0px;
+	border-style: solid;
+	border-color: black;
+	border-width: 2px;
+	padding: 40px 20px 3px 20px;
+	background-color: #989898;
+}
+/**********  EMD MAIN CONTENT  ***********/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
